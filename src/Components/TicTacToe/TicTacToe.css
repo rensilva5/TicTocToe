@@ -25,7 +25,6 @@
   font-size: 26px;
   color: #b66315;
   margin: 20px 50px;
-  /* margin-bottom: 50px; */
 }
 .board {
   height: 580px;
@@ -49,7 +48,6 @@
 .boxes img {
   width: 60%;
   height: 60%;
-  /* margin: 40px 40px; */
 }
 .title img {
   padding: 10px 20px;
