@@ -41,3 +41,10 @@
   display: flex;
   margin: auto;
 }
+.boxes img {
+  margin: 40px 40px;
+}
+.title img {
+  padding: 10px 20px;
+  height: 55px;
+}
